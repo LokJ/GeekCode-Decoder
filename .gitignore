@@ -4,6 +4,10 @@
 *.o
 *.obj
 
+# Something Codeblocks made
+*.cbp
+*.layout
+
 # Precompiled Headers
 *.gch
 *.pch
