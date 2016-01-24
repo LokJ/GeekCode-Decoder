@@ -1,6 +1,5 @@
 #include <iostream>
-
-std::string getGeekCode;
+#include "GeekCode.h"
 
 int main() {
 
